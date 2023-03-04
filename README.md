@@ -21,12 +21,23 @@ Die wöchentlichen Online-Termine sind freiwillig und dafür gedacht,
 1. dass wir die Übung zusammen besprechen
 2. dass wir Probleme die einzelne von euch haben gemeinsam lösen
 
+Das Seminar ist in vier Blöcke aufgeteilt:
+
+1. Einführung und Grundlagen
+2. Datenverarbeitung mit Pandas
+3. Scraper
+4. Visualisierung
+
+Jeder der Blöcke umfasst etwa drei Wochen. 
 
 ## Prüfungsleistung
 
 Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hier im Seminar kennengelernt haben. Die genaue Zusammensetzung der Benotung und die Gewichtung von Code zu Artikel erfahrt ihr später im Semester.
 
 ## Grundlagen und Einführung
+
+Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und arbeiten das erste Mal mit Python.
+
 
 ### Einführung
 
@@ -54,6 +65,8 @@ Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hi
 | :blue_book: Übung |
 
 ## Pandas
+
+Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir lernen hier was ein `DataFrame` ist, wie wir Datensätze bereinigen und auswerten können.
 
 ### Einführung in Pandas
 
@@ -83,6 +96,8 @@ Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hi
 
 ## Scraper
 
+Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzuladen. Wir schauen uns drei verschiedene Schwierigkeitsstufen an.
+
 ### Offene APIs
 
 | Materialien | 
@@ -108,6 +123,8 @@ Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hi
 | :blue_book: Übung |
 
 ## Visualisierung mit Datawrapper
+
+[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir veröffentlichen Diagramme und Karten.
 
 ### Diagramme
 
