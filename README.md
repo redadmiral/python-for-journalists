@@ -44,9 +44,9 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 | Material | Link |
 |----------|-------------------------------------------------------------|
 | :clapper: Kursübersicht    | |
-| :clapper: [Notebook](lessons/Einf%C3%BChrungGoogleColab.ipynb)    | |
+| :clapper: Einführung Google Colab    | |
 | :green_book: Kursübersicht    | |
-| :green_book: Einführung Google Colab    | |
+| :green_book: [Einführung Google Colab](lessons/Einf%C3%BChrungGoogleColab.ipynb)    | |
 
 ### Python Grundlagen Teil 1
 
