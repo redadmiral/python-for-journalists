@@ -53,7 +53,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 | Material | Link |
 |----------|-------------------------------------------------------------|
 | :clapper: Video    
-| :green_book: [Notebook](EinführungPython.ipynb) |
+| :green_book: [Notebook](lessons/EinführungPython.ipynb) |
 | :blue_book: Übung | |
 
 ### Python Grundlagen Teil 2
@@ -61,7 +61,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 | Materialien | 
 |----------|
 | :clapper: [Video](https://youtu.be/0PTxLeWTYzE) |
-| :green_book: [Notebook](EinführungPython.ipynb) | 
+| :green_book: [Notebook](lessons/EinführungPython2.ipynb) | 
 | :blue_book: Übung |
 
 ## Pandas
@@ -74,8 +74,8 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video: Einführung in Pandas](https://youtu.be/T0D1jA80qSw) |
 | :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
-| :green_book: [Notebook: Einführung in Pandas](Pandas.ipynb) | 
-| :green_book: [Notebook: Explorative Datenanalyse](PandasDataExploration.ipynb) | 
+| :green_book: [Notebook: Einführung in Pandas](lessons/Pandas.ipynb) | 
+| :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
 | :blue_book: Übung |
 
 ### Bereinigen von Datensätzen mit Pandas
@@ -83,7 +83,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 | Materialien | 
 |----------|
 | :clapper: [Video](https://youtu.be/QJ9Gim1yAxU) |
-| :green_book: [Notebook](PandasDataCleaning.ipynb) | 
+| :green_book: [Notebook](lessons/PandasDataCleaning.ipynb) | 
 | :blue_book: Übung |
 
 ### Datenanalyse mit Pandas
@@ -91,7 +91,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 | Materialien | 
 |----------|
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI) |
-| :green_book: [Notebook](PandasDataAnalysis.ipynb) | 
+| :green_book: [Notebook](lessons/PandasDataAnalysis.ipynb) | 
 | :blue_book: Übung |
 
 ## Scraper
@@ -103,7 +103,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook](Scraper_REST_APIs.ipynb) | 
+| :green_book: [Notebook](lessons/Scraper_REST_APIs.ipynb) | 
 | :blue_book: Übung |
 
 ### Beautiful Soup
@@ -111,7 +111,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook](Scraper_Beautiful_Soup.ipynb) | 
+| :green_book: [Notebook](lessons/Scraper_Beautiful_Soup.ipynb) | 
 | :blue_book: Übung |
 
 ### Selenium
@@ -119,7 +119,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook](Scraper_Selenium.ipynb) | 
+| :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
 | :blue_book: Übung |
 
 ## Visualisierung mit Datawrapper
@@ -139,7 +139,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook](Mapping.ipynb) | 
+| :green_book: [Notebook](lessons/Mapping.ipynb) | 
 | :blue_book: Übung |
 
 ## Journalismus
