@@ -41,20 +41,19 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Einführung
 
-| Material | Link |
-|----------|-------------------------------------------------------------|
-| :clapper: Kursübersicht    | |
-| :clapper: Einführung Google Colab    | |
-| :green_book: Kursübersicht    | |
-| :green_book: [Einführung Google Colab](lessons/Einf%C3%BChrungGoogleColab.ipynb)    | |
+| Material | 
+|----------|
+| :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M&t=41s) |
+| :green_book: [Notebook aus dem Video](lessons/EinführungGoogleColab.ipynb)    |
+| :blue_book: [Übung](exercises/Einführung.ipynb)
 
 ### Python Grundlagen Teil 1
 
-| Material | Link |
-|----------|-------------------------------------------------------------|
-| :clapper: Video    
-| :green_book: [Notebook](lessons/EinführungPython.ipynb) |
-| :blue_book: Übung | |
+| Material | 
+|----------|
+| :clapper: Video    |
+| :green_book: [Notebook aus dem Video](lessons/EinführungPython.ipynb) |
+| :blue_book: Übung |
 
 ### Python Grundlagen Teil 2
 
@@ -102,7 +101,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper:  |
+| :clapper: Video |
 | :green_book: [Notebook](lessons/Scraper_REST_APIs.ipynb) | 
 | :blue_book: Übung |
 
@@ -130,8 +129,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper:  |
-| :green_book: [Notebook]() | 
+| :clapper: Video |
+| :green_book: Notebook | 
 | :blue_book: Übung |
 
 ### Karten
@@ -149,5 +148,5 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook]() | 
+| :green_book: Notebook | 
 | :blue_book: Übung |
