@@ -41,6 +41,8 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Einführung
 
+15. März 2023
+
 | Material | 
 |----------|
 | :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M&t=41s) |
@@ -49,13 +51,18 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Python Grundlagen Teil 1
 
+22. und 29. März 2023
+
 | Material | 
 |----------|
-| :clapper: Video    |
+| :clapper: [Video](https://youtu.be/tEHBnx3iy9M)    |
 | :green_book: [Notebook aus dem Video](lessons/EinführungPython.ipynb) |
 | :blue_book: Übung |
 
+
 ### Python Grundlagen Teil 2
+
+05. April
 
 | Materialien | 
 |----------|
@@ -69,15 +76,28 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 
 ### Einführung in Pandas
 
+12. April
+
 | Materialien | 
 |----------|
-| :clapper: [Video: Einführung in Pandas](https://youtu.be/T0D1jA80qSw) |
+| :clapper: [Video](https://youtu.be/T0D1jA80qSw) |
+| :green_book: [Notebook](lessons/Pandas.ipynb) | 
+| :blue_book: Übung |
+
+### Explorative Datenanlyse mit Pandas
+
+19. April
+
+| Materialien | 
+|----------|
 | :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
-| :green_book: [Notebook: Einführung in Pandas](lessons/Pandas.ipynb) | 
 | :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
 | :blue_book: Übung |
 
+
 ### Bereinigen von Datensätzen mit Pandas
+
+26.  April
 
 | Materialien | 
 |----------|
@@ -85,7 +105,10 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 | :green_book: [Notebook](lessons/PandasDataCleaning.ipynb) | 
 | :blue_book: Übung |
 
+
 ### Datenanalyse mit Pandas
+
+03. Mai
 
 | Materialien | 
 |----------|
@@ -99,6 +122,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Offene APIs
 
+10. Mai
+
 | Materialien | 
 |----------|
 | :clapper: Video |
@@ -107,6 +132,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Beautiful Soup
 
+17. Mai
+
 | Materialien | 
 |----------|
 | :clapper:  |
@@ -114,6 +141,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | :blue_book: Übung |
 
 ### Selenium
+
+24. Mai
 
 | Materialien | 
 |----------|
@@ -127,6 +156,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Diagramme
 
+31. Mai
+
 | Materialien | 
 |----------|
 | :clapper: Video |
@@ -134,6 +165,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | :blue_book: Übung |
 
 ### Karten
+
+07. Juni
 
 | Materialien | 
 |----------|
@@ -144,6 +177,8 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 ## Journalismus
 
 ### Wie mache ich damit jetzt Journalismus?
+
+14. Juni
 
 | Materialien | 
 |----------|
