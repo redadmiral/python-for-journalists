@@ -51,13 +51,16 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Python Grundlagen Teil 1
 
-22. und 29. März 2023
+22. März: Variablen, Datentypen, Listen und Dicts 
+
+29. März: Funktionen, Namespaces, If/Else-Conditions und Schleifen
 
 | Material | 
 |----------|
 | :clapper: [Video](https://youtu.be/tEHBnx3iy9M)    |
 | :green_book: [Notebook aus dem Video](lessons/EinführungPython.ipynb) |
-| :blue_book: Übung |
+| :blue_book: [Übung Teil 1](exercises/UebungEinfuehrungPython1.ipynb) |
+| :blue_book: Übung Teil 2 |
 
 
 ### Python Grundlagen Teil 2
