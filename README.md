@@ -45,7 +45,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 | Material | 
 |----------|
-| :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M&t=41s) |
+| :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M) |
 | :green_book: [Notebook aus dem Video](lessons/EinführungGoogleColab.ipynb)    |
 | :blue_book: [Übung](exercises/Einführung.ipynb)
 
