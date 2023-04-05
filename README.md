@@ -68,7 +68,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |----------|
 | :clapper: [Video](https://youtu.be/0PTxLeWTYzE) |
 | :green_book: [Notebook](lessons/EinführungPython2.ipynb) | 
-| :blue_book: Übung |
+| :blue_book: [Übung](exercises/UebungEinfuehrungPython2.ipynb) |
 
 ## Pandas
 
