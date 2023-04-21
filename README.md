@@ -92,7 +92,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
 | :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
-| :blue_book: Übung |
+| :blue_book: [Übung](exercises/UebungExplorativeAnalyse.ipynb) |
 
 
 ### Bereinigen von Datensätzen mit Pandas
