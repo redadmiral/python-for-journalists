@@ -114,7 +114,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI) |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
-| :blue_book: Übung |
+| :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb) |
 
 ## Scraper
 
