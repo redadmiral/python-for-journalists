@@ -128,7 +128,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://www.youtube.com/watch?v=PqHI2kHCDPg) |
 | :green_book: [Notebook](lessons/Scraper_REST_APIs.ipynb) | 
-| :blue_book: Übung |
+| :blue_book: [Übung](exercises/Uebung_Scraper_REST_APIs.ipynb) |
 
 ### Beautiful Soup
 
