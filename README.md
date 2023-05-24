@@ -132,7 +132,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Beautiful Soup
 
-17. Mai
+24. Mai
 
 | Materialien | 
 |----------|
@@ -142,7 +142,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Selenium
 
-24. Mai
+31. Mai
 
 | Materialien | 
 |----------|
@@ -156,7 +156,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Diagramme
 
-31. Mai
+07. Juni
 
 | Materialien | 
 |----------|
@@ -166,7 +166,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Karten
 
-07. Juni
+14. Juni
 
 | Materialien | 
 |----------|
@@ -176,9 +176,9 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ## Journalismus
 
-### Wie mache ich damit jetzt Journalismus?
+### Prüfungsvorbereitung
 
-14. Juni
+21. Juni
 
 | Materialien | 
 |----------|
