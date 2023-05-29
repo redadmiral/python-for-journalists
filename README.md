@@ -148,7 +148,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://youtu.be/T-n0MlOa_xA) |
 | :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
-| :blue_book: Übung |
+| :blue_book: [Übung](exercises/UebungScraperSelenium.ipynb) |
 
 ## Visualisierung mit Datawrapper
 
@@ -161,7 +161,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | :clapper: Video |
-| :green_book: Notebook | 
+| :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
 | :blue_book: Übung |
 
 ## Journalismus
