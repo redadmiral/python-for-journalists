@@ -138,7 +138,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://youtu.be/h2c3VVUsA84)  |
 | :green_book: [Notebook](lessons/Scraper_Beautiful_Soup.ipynb) | 
-| :blue_book: [Übung](https://github.com/redadmiral/python-for-journalists/blob/main/exercises/ScraperBS4.ipynb) |
+| :blue_book: [Übung](exercises/ScraperBS4.ipynb) |
 
 ### Selenium
 
@@ -146,15 +146,15 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper:  |
+| :clapper: [Video](https://youtu.be/T-n0MlOa_xA) |
 | :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
 | :blue_book: Übung |
 
 ## Visualisierung mit Datawrapper
 
-[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir veröffentlichen Diagramme und Karten.
+[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
 
-### Diagramme
+### Diagramme und Karten
 
 07. Juni
 
@@ -164,24 +164,16 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | :green_book: Notebook | 
 | :blue_book: Übung |
 
-### Karten
+## Journalismus
+
+### Prüfungsvorbereitung
 
 14. Juni
 
 | Materialien | 
 |----------|
 | :clapper:  |
-| :green_book: [Notebook](lessons/Mapping.ipynb) | 
-| :blue_book: Übung |
-
-## Journalismus
-
-### Prüfungsvorbereitung
-
-21. Juni
-
-| Materialien | 
-|----------|
-| :clapper:  |
 | :green_book: Notebook | 
 | :blue_book: Übung |
+
+
