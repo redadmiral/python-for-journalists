@@ -30,6 +30,8 @@ Das Seminar ist in vier Blöcke aufgeteilt:
 
 Jeder der Blöcke umfasst etwa drei Wochen. 
 
+Alle Videos gibt es unten oder in dieser [Playlist auf Youtube](https://www.youtube.com/playlist?list=PLka6rvUaSzv8oUR9MJN4ki0QoKNNNVmKP).
+
 ## Prüfungsleistung
 
 Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hier im Seminar kennengelernt haben. Die genaue Zusammensetzung der Benotung und die Gewichtung von Code zu Artikel erfahrt ihr später im Semester.
