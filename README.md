@@ -160,7 +160,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper: Video |
+| :clapper: [Video](https://youtu.be/TKy-VcVseRo) |
 | :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
 | :blue_book: Übung |
 
