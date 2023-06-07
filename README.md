@@ -174,8 +174,6 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper:  |
-| :green_book: Notebook | 
-| :blue_book: Übung |
+| :clapper: Probeklausur |
 
 
