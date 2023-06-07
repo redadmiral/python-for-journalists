@@ -166,9 +166,9 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
 | :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
-## Journalismus
+## Prüfungsleistung
 
-### Prüfungsvorbereitung
+## Prüfungsvorbereitung
 
 14. Juni
 
@@ -176,4 +176,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: Probeklausur |
 
+## Prüfungszeitraum
 
+Unter Vorbehalt:
+03. Juli - 07. Juli
