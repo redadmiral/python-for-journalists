@@ -174,9 +174,23 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien | 
 |----------|
-| :clapper: Probeklausur |
+| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb) |
+| 📖: Lösung |
+
+21. Juni 
+
+Besprechung Probeklausur
+
+28. Juni
+
+Fragestunde und Feedbackrunde
 
 ## Prüfungszeitraum
 
-Unter Vorbehalt:
+Prüfungszeitraum:
 03. Juli - 07. Juli
+
+| Materialien | 
+|----------|
+| 📕: Klausur |
+
