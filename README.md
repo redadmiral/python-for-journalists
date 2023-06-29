@@ -175,7 +175,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb) |
-| 📖: Lösung |
+| 📖: [Lösung](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
 
 21. Juni 
 
