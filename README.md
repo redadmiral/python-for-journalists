@@ -190,7 +190,9 @@ Fragestunde und Feedbackrunde
 Prüfungszeitraum:
 03. Juli - 07. Juli
 
+Deadline für die Abgabe ist der 07. Juli um 18:00 Uhr
+
 | Materialien | 
 |----------|
-| 📕: Klausur |
+| 📕: [Klausur](exercises/PruefungsleistungPfJ23.ipynb) |
 
