@@ -195,4 +195,5 @@ Deadline für die Abgabe ist der 07. Juli um 18:00 Uhr
 | Materialien | 
 |----------|
 | 📕: [Klausur](exercises/PruefungsleistungPfJ23.ipynb) |
+| 📖: [Lösung](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)|
 
