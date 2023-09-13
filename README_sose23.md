@@ -1,8 +1,10 @@
-# Python für Journalist\*innen WiSe 23/24
+# Python für Journalist\*innen
 
 In diesem Kurs lernt ihr die Grundlagen der Programmierung und Datenverarbeitung mit Python – speziell zugeschnitten auf die Bedürfnisse von Journalist\*innen. Anders als in anderen Programmierkursen, tauchen wir nicht in die Untiefen der Sprache ab, sondern lernen nur diese Teile die für die (Daten-)Journalistische Arbeit wirklich wichtig sind.
 
 Der Kurs ist in 12 Einheiten unterteilt, jede Einheit besteht aus einem Video auf Youtube, einem Jupyter-Notebook mit dem Inhalt der Einheit und einem Notebook mit Übungsaufgaben.
+
+Dieser Kurs ist noch in einem recht frühen Stadium, und vor allem den Videos sieht man das an. Ich entschuldige mich bereits im Voraus :pray: 
 
 ## Kurs-Übersicht
 
@@ -37,17 +39,17 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Einführung
 
-11. Oktober 2023
+15. März 2023
 
 | Material | 
 |----------|
 | :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M) |
 | :green_book: [Notebook aus dem Video](lessons/EinführungGoogleColab.ipynb)    |
-| :blue_book: [Übung](exercises/Einführung.ipynb) |
+| :blue_book: [Übung](exercises/Einführung.ipynb)
 
 ### Python Grundlagen Teil 1
 
-18. Oktober
+22. März
 
 | Material | 
 |----------|
@@ -58,7 +60,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ### Python Grundlagen Teil 2
 
-25. Oktober
+05. April
 
 | Materialien | 
 |----------|
@@ -72,7 +74,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 
 ### Einführung in Pandas
 
-08. November
+12. April
 
 | Materialien | 
 |----------|
@@ -82,7 +84,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 
 ### Explorative Datenanlyse mit Pandas
 
-15. November
+19. April
 
 | Materialien | 
 |----------|
@@ -93,7 +95,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 
 ### Bereinigen von Datensätzen mit Pandas
 
-22. November
+26.  April
 
 | Materialien | 
 |----------|
@@ -104,7 +106,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 
 ### Datenanalyse mit Pandas
 
-29. November
+03. Mai
 
 | Materialien | 
 |----------|
@@ -118,7 +120,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Offene APIs
 
-6. Dezember
+10. Mai
 
 | Materialien | 
 |----------|
@@ -128,7 +130,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Beautiful Soup
 
-13. Dezember
+24. Mai
 
 | Materialien | 
 |----------|
@@ -138,7 +140,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Selenium
 
-20. Dezember
+31. Mai
 
 | Materialien | 
 |----------|
@@ -152,7 +154,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Diagramme und Karten
 
-10. Januar
+07. Juni
 
 | Materialien | 
 |----------|
@@ -164,27 +166,30 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ## Prüfungsvorbereitung
 
-17. Januar
+14. Juni
 
-| Materialien                                                                          | 
-|--------------------------------------------------------------------------------------|
-| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                           |
-| 📖: [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
-| 📕: [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
-| 📖: [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
+| Materialien | 
+|----------|
+| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb) |
+| 📖: [Lösung](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
 
-
-14. Januar 
+21. Juni 
 
 Besprechung Probeklausur
 
-21. Januar
+28. Juni
 
 Fragestunde und Feedbackrunde
 
 ## Prüfungszeitraum
 
 Prüfungszeitraum:
-29. Januar - 2. Februar
+03. Juli - 07. Juli
 
-Deadline für die Abgabe ist der 2. Februar um 18:00 Uhr
+Deadline für die Abgabe ist der 07. Juli um 18:00 Uhr
+
+| Materialien | 
+|----------|
+| 📕: [Klausur](exercises/PruefungsleistungPfJ23.ipynb) |
+| 📖: [Lösung](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)|
+
