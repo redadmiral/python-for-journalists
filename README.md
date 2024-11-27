@@ -38,17 +38,19 @@ Raum: WE.013
 
 Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und arbeiten das erste Mal mit Python.
 
-| Material | 
-|----------|
-| :green_book: [Notebook](lessons/EinführungGoogleColab.ipynb)    |
-| :blue_book: [Übung](exercises/Einführung.ipynb) |
+| Material                                                     | 
+|--------------------------------------------------------------|
+| :green_book: [Notebook](lessons/EinführungGoogleColab.ipynb) |
+| :blue_book: [Übung](exercises/Einführung.ipynb)              |
 
-### Python Grundlagen
+### Python Grundlagen 1 & 2
 
-| Material                                                                   | 
-|----------------------------------------------------------------------------|
-| :green_book: [Notebook](lessons/EinführungPython.ipynb)       |
+| Material                                                             | 
+|----------------------------------------------------------------------|
+| :green_book: [Notebook Teil 1](lessons/EinführungPython.ipynb)       |
 | :blue_book: [Übung Teil 1](exercises/UebungEinfuehrungPython1.ipynb) |
+| :green_book: [Notebook Teil 2](lessons/EinführungPython2.ipynb)      |
+| :blue_book: [Übung Teil 2](exercises/UebungEinfuehrungPython2.ipynb) |
 
 ### Einführung in Pandas
 
@@ -76,19 +78,19 @@ rate ich euch die Videos zu schauen.
 
 ### Explorative Datenanlyse mit Pandas
 
-| Materialien | 
-|----------|
-| :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
+| Materialien                                                                            | 
+|----------------------------------------------------------------------------------------|
+| :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU)             |
 | :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
-| :blue_book: [Übung](exercises/UebungExplorativeAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungExplorativeAnalyse.ipynb)                          |
 
 
 ### Bereinigen von Datensätzen mit Pandas
 
-| Materialien | 
-|----------|
-| :clapper: [Video](https://youtu.be/QJ9Gim1yAxU) |
-| :green_book: [Notebook](lessons/PandasDataCleaning.ipynb) | 
+| Materialien                                                   | 
+|---------------------------------------------------------------|
+| :clapper: [Video](https://youtu.be/QJ9Gim1yAxU)               |
+| :green_book: [Notebook](lessons/PandasDataCleaning.ipynb)    | 
 | :blue_book: [Übung](exercises/UebungDataCleaningPandas.ipynb) |
 
 ## 4. Tag
@@ -102,21 +104,21 @@ rate ich euch die Videos zu schauen.
 
 ### Datenanalyse mit Pandas
 
-| Materialien | 
-|----------|
-| :clapper: [Video](https://youtu.be/Cn8XEW_2-aI) |
+| Materialien                                               | 
+|-----------------------------------------------------------|
+| :clapper: [Video](https://youtu.be/Cn8XEW_2-aI)           |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
-| :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb)   |
 
 
 ## Visualisierung mit Datawrapper
 
 [Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
 
-| Materialien | 
-|----------|
-| :clapper: [Video](https://youtu.be/TKy-VcVseRo) |
-| :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
+| Materialien                                                         | 
+|---------------------------------------------------------------------|
+| :clapper: [Video](https://youtu.be/TKy-VcVseRo)                    |
+| :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb)    | 
 | :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
 
@@ -125,12 +127,12 @@ rate ich euch die Videos zu schauen.
 Die hier aufgeführten Altklausuren sind noch für den Kurs ohne KI-Assistent geschrieben und dementsprechend
 anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Fragestellung wird weniger detailliert sein.
 
-| Materialien                                                                          | 
-|--------------------------------------------------------------------------------------|
-| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                           |
-| 📖: [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
-| 📕: [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
-| 📖: [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
+| Materialien                                                                         | 
+|-------------------------------------------------------------------------------------|
+| 📕 [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                          |
+| 📖 [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
+| 📕 [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
+| 📖 [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
 
 
 ## Prüfungszeitraum
