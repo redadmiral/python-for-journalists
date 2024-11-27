@@ -43,7 +43,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |----------|
 | :clapper: [Video Einführung](https://www.youtube.com/watch?v=GFcwwsgGm4M) |
 | :green_book: [Notebook aus dem Video](lessons/EinführungGoogleColab.ipynb)    |
-| :blue_book: [Übung](exercises/linear/Einführung.ipynb) |
+| :blue_book: [Übung](exercises/Einführung.ipynb) |
 
 ### Python Grundlagen Teil 1
 
@@ -53,7 +53,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |----------|
 | :clapper: [Video](https://youtu.be/tEHBnx3iy9M)    |
 | :green_book: [Notebook aus dem Video](lessons/EinführungPython.ipynb) |
-| :blue_book: [Übung Teil 1](exercises/linear/UebungEinfuehrungPython1.ipynb) |
+| :blue_book: [Übung Teil 1](exercises/UebungEinfuehrungPython1.ipynb) |
 
 
 ### Python Grundlagen Teil 2
@@ -64,7 +64,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |----------|
 | :clapper: [Video](https://youtu.be/0PTxLeWTYzE) |
 | :green_book: [Notebook](lessons/EinführungPython2.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungEinfuehrungPython2.ipynb) |
+| :blue_book: [Übung](exercises/UebungEinfuehrungPython2.ipynb) |
 
 ## Pandas
 
@@ -78,7 +78,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video](https://youtu.be/T0D1jA80qSw) |
 | :green_book: [Notebook](lessons/Pandas.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungPandas.ipynb) |
+| :blue_book: [Übung](exercises/UebungPandas.ipynb) |
 
 ### Explorative Datenanlyse mit Pandas
 
@@ -88,7 +88,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
 | :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungExplorativeAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungExplorativeAnalyse.ipynb) |
 
 
 ### Bereinigen von Datensätzen mit Pandas
@@ -99,7 +99,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video](https://youtu.be/QJ9Gim1yAxU) |
 | :green_book: [Notebook](lessons/PandasDataCleaning.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungDataCleaningPandas.ipynb) |
+| :blue_book: [Übung](exercises/UebungDataCleaningPandas.ipynb) |
 
 
 ### Datenanalyse mit Pandas
@@ -110,7 +110,7 @@ Pandas ist die meistgenutzte Python-Bibliothek für die Datenverarbeitung. Wir l
 |----------|
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI) |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungDatenAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb) |
 
 ## Scraper
 
@@ -124,7 +124,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://www.youtube.com/watch?v=PqHI2kHCDPg) |
 | :green_book: [Notebook](lessons/Scraper_REST_APIs.ipynb) | 
-| :blue_book: [Übung](exercises/linear/Uebung_Scraper_REST_APIs.ipynb) |
+| :blue_book: [Übung](exercises/Uebung_Scraper_REST_APIs.ipynb) |
 
 ### Beautiful Soup
 
@@ -134,7 +134,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://youtu.be/h2c3VVUsA84)  |
 | :green_book: [Notebook](lessons/Scraper_Beautiful_Soup.ipynb) | 
-| :blue_book: [Übung](exercises/linear/ScraperBS4.ipynb) |
+| :blue_book: [Übung](exercises/ScraperBS4.ipynb) |
 
 ### Selenium
 
@@ -144,7 +144,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://youtu.be/T-n0MlOa_xA) |
 | :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungScraperSelenium.ipynb) |
+| :blue_book: [Übung](exercises/UebungScraperSelenium.ipynb) |
 
 ## Visualisierung mit Datawrapper
 
@@ -158,7 +158,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 |----------|
 | :clapper: [Video](https://youtu.be/TKy-VcVseRo) |
 | :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
-| :blue_book: [Übung](exercises/linear/ÜbungVisualisierungDatawrapper.ipynb) |
+| :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
 ## Prüfungsleistung
 
@@ -168,10 +168,10 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 | Materialien                                                                          | 
 |--------------------------------------------------------------------------------------|
-| 📕: [Probeklausur](exercises/linear/ProbeklausurFahrradMUC.ipynb)                           |
-| 📖: [Lösung Probeklausur](exercises/linear/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
-| 📕: [Altklausur](exercises/linear/PruefungsleistungPfJ23.ipynb)                             |
-| 📖: [Lösung Probeklausur](exercises/linear/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
+| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                           |
+| 📖: [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
+| 📕: [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
+| 📖: [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
 
 
 14. Januar 

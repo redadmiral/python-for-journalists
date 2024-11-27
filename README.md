@@ -41,14 +41,14 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 | Material | 
 |----------|
 | :green_book: [Notebook](lessons/EinführungGoogleColab.ipynb)    |
-| :blue_book: [Übung](exercises/linear/Einführung.ipynb) |
+| :blue_book: [Übung](exercises/Einführung.ipynb) |
 
 ### Python Grundlagen
 
 | Material                                                                   | 
 |----------------------------------------------------------------------------|
 | :green_book: [Notebook](lessons/EinführungPython.ipynb)       |
-| :blue_book: [Übung Teil 1](exercises/linear/UebungEinfuehrungPython1.ipynb) |
+| :blue_book: [Übung Teil 1](exercises/UebungEinfuehrungPython1.ipynb) |
 
 ### Einführung in Pandas
 
@@ -56,7 +56,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |----------------------------------------------------------|
 | :clapper: [Video](https://youtu.be/T0D1jA80qSw)          |
 | :green_book: [Notebook](lessons/Pandas.ipynb)            | 
-| :blue_book: [Übung](exercises/linear/UebungPandas.ipynb) |
+| :blue_book: [Übung](exercises/UebungPandas.ipynb) |
 
 ### Einführung in den KI-Assistenten
 
@@ -80,7 +80,7 @@ rate ich euch die Videos zu schauen.
 |----------|
 | :clapper: [Video: Explorative Datenanalyse](https://youtu.be/dpNbiX4NbcU) |
 | :green_book: [Notebook: Explorative Datenanalyse](lessons/PandasDataExploration.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungExplorativeAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungExplorativeAnalyse.ipynb) |
 
 
 ### Bereinigen von Datensätzen mit Pandas
@@ -89,7 +89,7 @@ rate ich euch die Videos zu schauen.
 |----------|
 | :clapper: [Video](https://youtu.be/QJ9Gim1yAxU) |
 | :green_book: [Notebook](lessons/PandasDataCleaning.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungDataCleaningPandas.ipynb) |
+| :blue_book: [Übung](exercises/UebungDataCleaningPandas.ipynb) |
 
 ## 4. Tag
 
@@ -106,7 +106,7 @@ rate ich euch die Videos zu schauen.
 |----------|
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI) |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
-| :blue_book: [Übung](exercises/linear/UebungDatenAnalyse.ipynb) |
+| :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb) |
 
 
 ## Visualisierung mit Datawrapper
@@ -117,7 +117,7 @@ rate ich euch die Videos zu schauen.
 |----------|
 | :clapper: [Video](https://youtu.be/TKy-VcVseRo) |
 | :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
-| :blue_book: [Übung](exercises/linear/ÜbungVisualisierungDatawrapper.ipynb) |
+| :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
 
 ## Prüfungsleistung
@@ -127,10 +127,10 @@ anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Frage
 
 | Materialien                                                                          | 
 |--------------------------------------------------------------------------------------|
-| 📕: [Probeklausur](exercises/linear/ProbeklausurFahrradMUC.ipynb)                           |
-| 📖: [Lösung Probeklausur](exercises/linear/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
-| 📕: [Altklausur](exercises/linear/PruefungsleistungPfJ23.ipynb)                             |
-| 📖: [Lösung Probeklausur](exercises/linear/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
+| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                           |
+| 📖: [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
+| 📕: [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
+| 📖: [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
 
 
 ## Prüfungszeitraum
