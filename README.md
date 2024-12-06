@@ -27,7 +27,8 @@ Am Nachmittag liegt der Fokus auf der Analyse der Daten, bei der ihr Ausreißer 
 | Material                                                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | :green_book: [Einführung in die Datenrecherche](https://docs.google.com/presentation/d/1EpJKTghAJyMHZKtsIZ977h22vM38aj1WSTt2HfWBEdY/edit?usp=sharing) |
-| :bar_chart: [Datensatz Gastro in Zürich](https://docs.google.com/spreadsheets/d/1vtizSKxRLZXkANkqRQ5yQapnJBDetXM5SzyM3Amf-Go/edit?usp=sharing)        |
+| :green_book: [Google Sheets Einbrüche in Zürich](https://docs.google.com/spreadsheets/d/1Xgnmpd0h-xbRWALZmh1afNG_UG4UrtTh7r0cnaz_4Wc/edit?usp=sharing)
+| :bar_chart: [Datensatz Einbrüche in Zürich](https://data.stadt-zuerich.ch/dataset/ktzh_pks_einbrueche_gemeinden_stadtkreise)        |
 
 
 ## 2. Tag
