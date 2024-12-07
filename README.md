@@ -67,6 +67,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 |---------------------------------------------------------|
 | :green_book: [Notebook](lessons/AI_Assistant.ipynb)     | 
 | :blue_book: [Übung](exercises/UebungAI_Assistant.ipynb) |
+| :bar_chart: [Datensatz](https://docs.google.com/spreadsheets/d/1vtizSKxRLZXkANkqRQ5yQapnJBDetXM5SzyM3Amf-Go/edit?gid=1076214913#gid=1076214913)|
 
 
 ## 3. Tag
