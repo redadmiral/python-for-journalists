@@ -72,11 +72,42 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 
 ## 3. Tag
 Fr, 10.01.24, 10:00 – 17:00 Uhr
-Raum: WE.013
+Raum KA.108
 
-Die Inhalte dieses Blocks orientieren sich sehr eng an einer alten Version des Kurses. Die hier verlinkten Videos
-sind noch von der alten Kursversion. Wenn ihr aber keine Zeit habt oder den Inhalt nochmal wiederholen möchtet,
-rate ich euch die Videos zu schauen.
+## Visualisierung mit Datawrapper
+
+[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
+
+| Materialien                                                         | 
+|---------------------------------------------------------------------|
+| :clapper: [Video](https://youtu.be/TKy-VcVseRo)                    |
+| :green_book: [Notebook](lessons/VisualisierungDatawrapperBreak-ins.ipynb)    | 
+| :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
+
+
+## Prüfungsvorbereitung
+
+Die hier aufgeführten Altklausuren sind noch für den Kurs ohne KI-Assistent geschrieben und dementsprechend
+anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Fragestellung wird weniger detailliert sein.
+
+| Materialien                                                                         | 
+|-------------------------------------------------------------------------------------|
+| 📕 [Probeklausur](exercises/ProbeklausurBlock.ipynb)                          |
+| 📕 [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
+| 📖 [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
+
+
+## Prüfungszeitraum
+
+Prüfungszeitraum:
+20. Januar - 24. Januar
+
+Deadline für die Abgabe ist der 24. Januar um 18:00 Uhr.
+
+
+## 4. Tag
+Sa, 11.01.24, 10:00 – 17:00 Uhr
+Raum KA.108
 
 ### Explorative Datenanlyse mit Pandas
 
@@ -95,14 +126,6 @@ rate ich euch die Videos zu schauen.
 | :green_book: [Notebook](lessons/PandasDataCleaning.ipynb)    | 
 | :blue_book: [Übung](exercises/UebungDataCleaningPandas.ipynb) |
 
-## 4. Tag
-
-Sa, 11.01.24, 10:00 – 17:00 Uhr
-Raum: WE.013
-
-Die Inhalte dieses Blocks orientieren sich sehr eng an einer alten Version des Kurses. Die hier verlinkten Videos
-sind noch von der alten Kursversion. Wenn ihr aber keine Zeit habt oder den Inhalt nochmal wiederholen möchtet,
-rate ich euch die Videos zu schauen.
 
 ### Datenanalyse mit Pandas
 
@@ -111,35 +134,3 @@ rate ich euch die Videos zu schauen.
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI)           |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
 | :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb)   |
-
-
-## Visualisierung mit Datawrapper
-
-[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
-
-| Materialien                                                         | 
-|---------------------------------------------------------------------|
-| :clapper: [Video](https://youtu.be/TKy-VcVseRo)                    |
-| :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb)    | 
-| :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
-
-
-## Prüfungsleistung
-
-Die hier aufgeführten Altklausuren sind noch für den Kurs ohne KI-Assistent geschrieben und dementsprechend
-anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Fragestellung wird weniger detailliert sein.
-
-| Materialien                                                                         | 
-|-------------------------------------------------------------------------------------|
-| 📕 [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb)                          |
-| 📖 [Lösung Probeklausur](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
-| 📕 [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
-| 📖 [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
-
-
-## Prüfungszeitraum
-
-Prüfungszeitraum:
-20. Januar - 24. Januar
-
-Deadline für die Abgabe ist der 24. Januar um 18:00 Uhr
