@@ -93,6 +93,7 @@ anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Frage
 | Materialien                                                                         | 
 |-------------------------------------------------------------------------------------|
 | 📕 [Probeklausur](exercises/ProbleklausurBlock.ipynb)                          |
+| 📖 [Probeklausur](exercises/ProbleklausurBlockSolution.ipynb)                          |
 | 📕 [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
 | 📖 [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
 
