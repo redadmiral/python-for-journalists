@@ -74,7 +74,7 @@ Hier lernen wir unsere Arbeitsumgebung, das Google Colab Notebook, kennen und ar
 Fr, 10.01.24, 10:00 – 17:00 Uhr
 Raum KA.108
 
-## Visualisierung mit Datawrapper
+### Visualisierung mit Datawrapper
 
 [Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
 
@@ -85,7 +85,7 @@ Raum KA.108
 | :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
 
-## Prüfungsvorbereitung
+### Prüfungsvorbereitung
 
 Die hier aufgeführten Altklausuren sind noch für den Kurs ohne KI-Assistent geschrieben und dementsprechend
 anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Fragestellung wird weniger detailliert sein.
@@ -96,14 +96,6 @@ anders strukturiert. Die grobe Richtung wird zwar gleich bleiben, aber die Frage
 | 📖 [Probeklausur](exercises/ProbleklausurBlockSolution.ipynb)                          |
 | 📕 [Altklausur](exercises/PruefungsleistungPfJ23.ipynb)                             |
 | 📖 [Lösung Probeklausur](exercises/solutions/PrüfungsleistungPfJ23Solution.ipynb)   |
-
-
-## Prüfungszeitraum
-
-Prüfungszeitraum:
-20. Januar - 24. Januar
-
-Deadline für die Abgabe ist der 24. Januar um 18:00 Uhr.
 
 
 ## 4. Tag
@@ -135,3 +127,23 @@ Raum KA.108
 | :clapper: [Video](https://youtu.be/Cn8XEW_2-aI)           |
 | :green_book: [Notebook](lessons/PandasDatenAnalyse.ipynb) | 
 | :blue_book: [Übung](exercises/UebungDatenAnalyse.ipynb)   |
+
+## Prüfung
+
+Bitte lest die Angabe genau durch, vor allem die Modalitäten zur Abgabe.
+
+Wenn ihr technische Probleme habt oder Fehler in der Klausur entdeckt schreibt mir jederzeit. Bei inhaltlichen Fragestellungen kann ich euch leider nicht weiterhelfen.
+
+Die Abgabe bitte per Mail an marco[punkt]lehner[at]th-nuernberg.de, bitte mit eurem vollen Namen und eurer Matrikelnummer. Das Notebok ladet ihr bitte herunter und schickt es mir als Anhang. 
+
+| Materialien                                               | 
+|-----------------------------------------------------------|
+| 📕 [Klausur]([exercises/PruefungsleistungPfJ23.ipynb](exercises/KlausurWiSe2425.ipynb))      |
+
+
+## Prüfungszeitraum
+
+Prüfungszeitraum:
+20. Januar - 24. Januar
+
+Deadline für die Abgabe ist der 24. Januar um 18:00 Uhr.
