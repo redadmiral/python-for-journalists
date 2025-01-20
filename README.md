@@ -138,7 +138,7 @@ Die Abgabe bitte per Mail an marco[punkt]lehner[at]th-nuernberg.de, bitte mit eu
 
 | Materialien                                               | 
 |-----------------------------------------------------------|
-| 📕 [Klausur]([exercises/PruefungsleistungPfJ23.ipynb](exercises/KlausurWiSe2425.ipynb))      |
+| 📕 [Klausur]([exercises/PruefungsleistungPfJ23.ipynb](exercises/KlausurWiSe2425.ipynb)      |
 
 
 ## Prüfungszeitraum
